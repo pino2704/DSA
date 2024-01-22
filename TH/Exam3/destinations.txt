@@ -1,0 +1,5 @@
+0,Ho Chi Minh
+1,Ha Noi
+2,Hue
+3,Nha Trang
+4,Vung Tau
